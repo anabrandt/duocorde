@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848999169193",
+    "project_id": "duocorde-project",
+    "storage_bucket": "duocorde-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848999169193:android:8fc77ddf87798fa0e0fdb8",
+        "android_client_info": {
+          "package_name": "com.example.duocorde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLiQkRHBUJTa58cAzpyAPdkFgAEC-RBBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

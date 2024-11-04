@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="163dp"
+        android:layout_height="162dp"
+        app:srcCompat="@drawable/profile_icon"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="71dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PERFIL"
+        tools:layout_editor_absoluteX="183dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JAMES SMITH"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="247dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="67dp"
+        android:layout_height="63dp"
+        app:srcCompat="@drawable/progress"
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="365dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="62dp"
+        android:layout_height="65dp"
+        app:srcCompat="@drawable/music_icon"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="363dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/conquistas"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="276dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="22dp"
+        android:layout_height="26dp"
+        app:srcCompat="@drawable/add_friends"
+        tools:layout_editor_absoluteX="373dp"
+        tools:layout_editor_absoluteY="22dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="24dp"
+        android:layout_height="32dp"
+        app:srcCompat="@drawable/back_button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/progress_barr"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="328dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="143dp"
+        android:layout_height="46dp"
+        android:backgroundTint="#F9C402"
+        android:text="Página inicial"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
